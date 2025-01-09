@@ -10,7 +10,7 @@ AWSGoat uses IaC (Terraform) to deploy the vulnerable cloud infrastructure on th
 - Cloud Pentesting/Red-teaming
 - Auditing IaC
 - Secure Coding
-- Detection and mitigation
+- Detection and mitigationasdfdsf
 
 
 The project will be divided into modules and each module will be a separate web application, powered by varied tech stacks and development practices. It will leverage IaC through terraform and GitHub actions to ease the deployment process.
